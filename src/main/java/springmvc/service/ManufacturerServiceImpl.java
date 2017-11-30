@@ -9,7 +9,7 @@ import springmvc.model.Manufacturer;
 
 import java.util.List;
 import java.util.UUID;
-@Service("manufacturerService")
+@Service
 @Transactional
 public class ManufacturerServiceImpl implements ManufacturerService {
 
