@@ -1,0 +1,8 @@
+springmvc\service\ManufacturerServiceImpl.class
+springmvc\configuration\AppInitializer.class
+springmvc\controller\ManufacturerController.class
+springmvc\configuration\HibernateConfiguration.class
+springmvc\configuration\AppConfig.class
+springmvc\service\ManufacturerService.class
+springmvc\dao\ManufacturerDao.class
+springmvc\model\Manufacturer.class
